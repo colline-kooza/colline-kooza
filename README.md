@@ -2,7 +2,7 @@
 👋 Hi, I'm Collinz Dev<br>I'm a passionate developer with over 2 years of experience in building web and mobile applications. My expertise lies in:<br><br>📱 React Native for cross-platform mobile development<br>⚛️ React for dynamic and responsive web interfaces<br>🟦 TypeScript for type-safe JavaScript development<br>🟢 Node.js for server-side applications<br><br>I love crafting elegant solutions to complex problems and am always eager to learn new technologies. Let's build something amazing together!
 
 ## 🌐 Connect with me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)]((https://www.collinzdev.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.collinzdev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/collinz-kooza-658a79271/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/collinzoffical)
 
